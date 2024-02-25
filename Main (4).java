@@ -1,8 +1,3 @@
-//Kavishan Ponrajah
-//ICS3U1
-//December 19, 2023
-//Purpose: To create an educational program that allows people to track the shows they are watching. There are also other features which will be shown in the program.
-
 import java.util.Scanner;
 import java.io.*;
 import java.util.Arrays;
